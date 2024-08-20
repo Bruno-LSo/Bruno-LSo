@@ -1,8 +1,8 @@
 ### Oi! Eu sou o Bruno👋
 Trabalhei como servidor na Companhia de Saneamento de Minas Gerais (COPASA) por 14 anos, onde desenvolvi habilidades robustas em gestão de processos, análise de dados e automação. Durante minha trajetória, participei ativamente de projetos que resultaram em significativas melhorias operacionais, como a padronização de processos críticos, desenvolvimento de dashboards e relatórios automatizados para a gestão eficiente da unidade de logística e suprimentos.
-As ferramentas que fizeram parte da minha rotina: Excel, PowerBI, PowerPoint, Planner, Microsoft Forms e as linguagens VBA e ABAP majoritariamente.
+As ferramentas que fizeram parte da minha rotina: <b>Excel, PowerBI, PowerPoint, Planner, Microsoft Forms</b> e as linguagens <b>VBA</b> e <b>ABAP</b> majoritariamente.
 
-Estou em transição de carreira para a área de Ciência de Dados, onde busco aplicar minhas habilidades analíticas e técnicas em projetos que envolvam a extração e tratamento de dados, a aplicação de recursos estatísticos e ferramentas como o Aprendizado de Máquina para a geração de insights. Em 2020 me graduei como bacharel em Filosofia pela UFMG. Atualmente, estou cursando Análise e desenvolvimento de sistemas pela PUC Minas (com previsão de conclusão em julho de 2025) e um bootcamp de Ciência de Dados pela TripleTen (com previsão de conclusão em novembro de 2024), onde tenho aprofundado meus conhecimentos em Python, manipulação de dados (Pandas, SQL), visualização (Matplotlib, Seaborn), e desenvolvimento de modelos de machine learning (Scikit-Learn).
+Estou em transição de carreira para a área de Ciência de Dados, onde busco aplicar minhas habilidades analíticas e técnicas em projetos que envolvam a extração e tratamento de dados, a aplicação de recursos estatísticos e ferramentas como o Aprendizado de Máquina para a geração de insights. Em 2020 me graduei como bacharel em Filosofia pela UFMG. Atualmente, estou cursando Análise e desenvolvimento de sistemas pela PUC Minas (com previsão de conclusão em julho de 2025) e um bootcamp de Ciência de Dados pela TripleTen (com previsão de conclusão em novembro de 2024), onde tenho aprofundado meus conhecimentos em <b>Python</b>, manipulação de dados (<b>Pandas, SQL</b>), visualização (<b>Matplotlib, Seaborn</b>), e desenvolvimento de modelos de machine learning (<b>Scikit-Learn</b>).
 
 <b>Para informações profissionais, acesse meu Linkedin:</b>
 
@@ -43,7 +43,7 @@ __________________________________________________________________
 __________________________________________________________________
 
 
-<b>Ja desenvolvi também alguns projetos de integração para extração e tratamento de dados, utilizando Excel (VBA), SAP.</b>
+<b>Como mencionado, desenvolvi uma série de projetos de integração para extração, tratamento de dados e emissão de relatórios utilizando Excel (VBA) e SAP(ABAP).</b>
 <div style="display: inline_block"><br/>
     <img align="center" alt="excel#" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
     <img align="center" alt="sap#" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
