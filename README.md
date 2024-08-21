@@ -9,13 +9,6 @@ Estou em transição de carreira para a área de Ciência de Dados, onde busco a
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-lima-9407252ba/)
 
 __________________________________________________________________
-<b>Se você, assim como eu, ama música e guitarra, acesse minhas outras redes sociais!</b>
-
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BrunoLima88)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bls_music/)
-
-__________________________________________________________________
 
 ## DATA EVERYWHERE! Vamos falar de dados? Essa é minha atuação no GitHub:
 
@@ -48,5 +41,13 @@ __________________________________________________________________
     <img align="center" alt="excel#" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
     <img align="center" alt="sap#" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 </div>
+
+__________________________________________________________________
+
+<b>Se você, assim como eu, ama música e guitarra, acesse minhas outras redes sociais!</b>
+
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BrunoLima88)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bls_music/)
 
 __________________________________________________________________
