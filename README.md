@@ -13,7 +13,7 @@ Feel free to check out my **[projects from the TripleTen Data Science Bootcamp](
 
 I also develop **full-stack applications**, integrating **backend, frontend, and mobile technologies**. You can explore my repositories to find web and mobile projects covering **Node.js, React, React Native, and database management**.  
 
-For professional details, visit my **[LinkedIn](https://www.linkedin.com/in/bruno-lima-9407252ba/)**.  
+For professional details, visit my **[LinkedIn](https://www.linkedin.com/in/bruno-lima-ds)**.  
 
 ---
 
@@ -27,7 +27,7 @@ Dê uma olhada nos **[projetos do bootcamp de Data Science da TripleTen](https:/
 
 Também desenvolvo **aplicações full-stack**, integrando **backend, frontend e mobile**. Explore meus repositórios para encontrar projetos com **Node.js, React, React Native e gerenciamento de bancos de dados**.  
 
-Para mais informações profissionais, acesse meu **[LinkedIn](https://www.linkedin.com/in/bruno-lima-9407252ba/)**.  
+Para mais informações profissionais, acesse meu **[LinkedIn](https://www.linkedin.com/in/bruno-lima-ds)**.  
 
 ---
 
@@ -41,7 +41,7 @@ Echa un vistazo a los **[proyectos del bootcamp de Ciencia de Datos de TripleTen
 
 También desarrollo **aplicaciones full-stack**, integrando **backend, frontend y mobile**. Explora mis repositorios para encontrar proyectos con **Node.js, React, React Native y gestión de bases de datos**.  
 
-Para más información profesional, visita mi **[LinkedIn](https://www.linkedin.com/in/bruno-lima-9407252ba/)**.  
+Para más información profesional, visita mi **[LinkedIn](https://www.linkedin.com/in/bruno-lima-ds)**.  
 
 ---
 
