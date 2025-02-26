@@ -1,4 +1,4 @@
-## Data Science for a Better Future  
+## Data Science
 
 I discovered my passion for data science and its possibilities during my 13 years as a public servant at COPASA. Now, my focus is on developing data-driven projects that can generate a positive social impact and, hopefully, transform our reality.  
 
