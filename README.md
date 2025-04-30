@@ -1,8 +1,9 @@
 ## Data Science
 
-I discovered my passion for data science and its possibilities during my 13 years as a public servant at COPASA. Now, my focus is on developing data-driven projects that can generate a positive social impact and, hopefully, transform our reality.  
+My focus is on developing data-driven projects that can generate a positive social impact and, hopefully, transform our reality.  
 
-With a background in **Systems Analysis and Development** and a **bachelor’s degree in Philosophy**, I bring a unique perspective to problem-solving. My experience in **data analytics, machine learning, and full-stack development** is reflected in my projects. Given my deep interest in the **healthcare sector**, I direct most of my work toward solutions that can improve decision-making and accessibility in this field.  
+I have a background in **Systems Analysis and Development** and a **bachelor’s degree in Philosophy**.
+I also have experiencie in **data analytics, machine learning, and full-stack development** and due to my interest in the **healthcare sector**, I direct most of my work toward solutions that can improve decision-making and accessibility in this field.  
 
 ### What I Do  
 
