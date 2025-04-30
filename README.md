@@ -1,4 +1,4 @@
-## Data Science
+## Data
 
 My focus is on developing data-driven projects that can generate a positive social impact and, hopefully, transform our reality.  
 
