@@ -1,23 +1,21 @@
-## Data
+## Bruno Lima
 
-My focus is on developing data-driven projects that can generate a positive social impact and, hopefully, transform our reality.  
+Desenvolvedor e analista de dados. Fundador da HoldUp.
 
-I have a background in **Systems Analysis and Development** and a **bachelor’s degree in Philosophy**.
-I also have experiencie in **data analytics, machine learning, and full-stack development** and due to my interest in the **healthcare sector**, I direct most of my work toward solutions that can improve decision-making and accessibility in this field.  
+Formação: Análise e Desenvolvimento de Sistemas e bacharelado em Filosofia.
 
-### What I Do  
+### O que faço
 
-- **Data Science & Machine Learning** – Developing models for prediction, optimization, and decision-making, often applied to healthcare challenges.  
-- **Data Integration & Processing** – Transforming raw data into actionable insights, with a focus on practical applications in real-world scenarios.  
-- **Full-Stack Development** – Building web and mobile applications with **Node.js, React, and React Native** to support data-driven solutions.  
+- **Sistemas de gestão**: fluxos de aprovação, perfis de acesso e assinatura digital.
+- **Comércio eletrônico**: lojas com pagamento, frete e integração com ERP.
+- **Dados e painéis**: extração, conferência e visualização de bases públicas (TSE, IBGE).
+- **Saúde e aprendizado de máquina**: modelos preditivos e análises estatísticas.
 
-### Current Focus  
+### Ferramentas
 
-- Enhancing my expertise in **data science, web development, and AI** through real-world projects.  
-- Applying **data-driven approaches to healthcare**, aiming to improve patient outcomes and system efficiency.  
-- Building **intuitive and scalable solutions** that bridge the gap between technology and decision-making in critical areas.  
+Python · JavaScript · React · Node.js · Supabase (PostgreSQL) · Cloudflare
 
-### Let's Connect  
+### Links
 
-Check out my **[GitHub projects](https://github.com/Bruno-LSo/Projects-Library)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/bruno-lima-ds)**. Always open to meaningful collaborations and discussions!  
-
+- <a href="https://bruno-lso.github.io/portfolio/" target="_blank">Portfólio</a>
+- <a href="https://www.linkedin.com/in/bruno-lima-ds" target="_blank">LinkedIn</a>
