@@ -6,6 +6,10 @@ Formação: Análise e Desenvolvimento de Sistemas e bacharelado em Filosofia.
 
 ### O que faço
 
+Crio soluções para problemas. Como diz o sábio, todo problema tem um solucionema.
+
+Alguns problemas que já resolvi:
+
 - **Sistemas de gestão**: fluxos de aprovação, perfis de acesso e assinatura digital.
 - **Comércio eletrônico**: lojas com pagamento, frete e integração com ERP.
 - **Dados e painéis**: extração, conferência e visualização de bases públicas (TSE, IBGE).
